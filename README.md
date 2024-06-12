@@ -37,9 +37,9 @@ https://gist.github.com/Itxxwasi/5c6e83b048b65e4be5fab2c7da1625d6
 
 Leave from a Group
 ```
-https://gist.github.com/Guru322/6263ff5478fe20b7467648d694646f6c
+https://gist.github.com/Itxxwasi/5f403dff5beb4ea54c658ce5f867bdd5
 ```
-- Created By Guru
+- Created By wasi
 ---
 
 
