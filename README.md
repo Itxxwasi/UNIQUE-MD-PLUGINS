@@ -1,8 +1,8 @@
 # UNIQUE-MD-PLUGINS
-<h1 align="center"> GURU BOT PLUGINS </h1>
+<h1 align="center"> UNIQUE MD PLUGINS </h1>
 
 <p align="center">
-<a href="https://github.com/Guru322/EXTERNAL-PLUGINS"><img title="Author" src="https://img.shields.io/badge/GURU BOT-PLUGINS-black?style=for-the-badge&logo=Github"></a>
+<a href="https://youtube.com/@wasitech1"><img title="Author" src="https://img.shields.io/badge/SUBSCRIBE-red?style=for-the-badge&logo=YouTube"></a>
 <p/>
 
  ##  Command Usage
@@ -28,9 +28,9 @@
 
 ChatBot Plugin (No Apikey Needed)
 ```
-https://gist.github.com/Guru322/29b5a553d47b163f187ee840de1d12e8
+https://gist.github.com/Itxxwasi/5c6e83b048b65e4be5fab2c7da1625d6
 ```
-- Created By @Guru
+-
 ---
 
 <h4 align="center"> LEAVE </h1>
